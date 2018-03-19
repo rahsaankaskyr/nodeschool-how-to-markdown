@@ -1,0 +1,13 @@
+
+
+
+
+
+put folder /usr/local/lib/
+
+how-to-markdown
+
+npm install -g how-to-markdown
+
+
+
